@@ -2,7 +2,7 @@
 
 ## 🚀 2025 🚀
 
-İstanbul 
+İstanbul Gelişim
 
 
 [Beyzanur Çelik](https://github.com/Beyzanurcelikk)    
