@@ -2,7 +2,7 @@
 
 ## 🚀 2025 🚀
 
-İstanbul Gelişim Üniversitesi (İGÜ) MYO 
+İstanbul Gelişim Üniversitesi (İGÜ) "PyLabMind" 
 
 
 [Beyzanur Çelik](https://github.com/Beyzanurcelikk)    
