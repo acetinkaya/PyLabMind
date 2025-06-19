@@ -11,7 +11,7 @@
 
 - [**Tuğçe Daşcı**](https://github.com/tugcedasci)    
   ORCID ID: 0009-0000-7253-5918    
-  İstanbul  
+  İstanbul  Gelişim Üniversitesi, 
 
 [Elif Yeşilkır](http://github.com/elifyesilkir)    
 http://github.com/elifyesilkir
