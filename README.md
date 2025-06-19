@@ -2,6 +2,8 @@
 
 ## 🚀 2025 🚀
 
+İstanbul 
+
 
 [Beyzanur Çelik](https://github.com/Beyzanurcelikk)    
 https://github.com/Beyzanurcelikk    
