@@ -2,4 +2,4 @@
 
 Beyzanur Çelik
 
-Tuğçe 
+Tuğçe Daşcı
