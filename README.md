@@ -14,7 +14,7 @@
   İstanbul Gelişim Üniversitesi, İSTKA Siber Akademi, İstanbul, Türkiye 
 
 - [**Elif Yeşilkır**](http://github.com/elifyesilkir)     
-  ORCID ID: 0009-0005-0913
+  ORCID ID: 0009-0005-0913-910X
   İstanbul Gelişim Üniversitesi, İSTKA Siber Akademi, İstanbul, Türkiye  
 
 ## Proje Danışmanı    
