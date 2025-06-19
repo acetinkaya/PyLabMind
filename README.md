@@ -2,7 +2,7 @@
 
 ## 🚀 2025 🚀
 
-İstanbul Gelişim Üniversitesi (İGÜ) "PyLabMind" 
+İstanbul Gelişim Üniversitesi (İGÜ) "PyLabMind" takımının 
 
 
 [Beyzanur Çelik](https://github.com/Beyzanurcelikk)    
