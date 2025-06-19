@@ -18,4 +18,5 @@
   İstanbul Gelişim Üniversitesi, İSTKA Siber Akademi, İstanbul, Türkiye  
 
 ## Proje Danışmanı    
-- [**Ali Çetinkaya**]
+- [**Ali Çetinkaya**](https://github.com/acetinkaya)     
+
