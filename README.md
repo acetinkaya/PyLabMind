@@ -1,3 +1,3 @@
 # PyLabMind
 
-Beyzanur 
+Beyzanur Çelik
