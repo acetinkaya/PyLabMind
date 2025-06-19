@@ -11,7 +11,7 @@
 
 - [**Tuğçe Daşcı**](https://github.com/tugcedasci)    
   ORCID ID: 0009-0000-7253-5918    
-  İstanbul  Gelişim Üniversitesi, İSTKA Siber Akademi, İstanbul, Türkiye 
+  İstanbul Gelişim Üniversitesi, İSTKA Siber Akademi, İstanbul, Türkiye 
 
-[Elif Yeşilkır](http://github.com/elifyesilkir)    
+- [**Elif Yeşilkır**](http://github.com/elifyesilkir)    
 http://github.com/elifyesilkir
