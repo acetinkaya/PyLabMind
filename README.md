@@ -4,7 +4,7 @@
 
 İstanbul Gelişim Üniversitesi (İGÜ) "PyLabMind" takımının çalışmalarının tanıtım sayfasıdır.
 
-## Proje     
+## Proje  Takımı   
 [Beyzanur Çelik](https://github.com/Beyzanurcelikk)    
 https://github.com/Beyzanurcelikk    
 
