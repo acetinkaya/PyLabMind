@@ -1,6 +1,7 @@
 # PyLabMind
 
-Beyzanur Çelik   
+[Beyzanur Çelik](https://github.com/Beyzanurcelikk)    
+   
 https://github.com/Beyzanurcelikk
 
 [Tuğçe Daşcı](https://github.com/tugcedasci)    
