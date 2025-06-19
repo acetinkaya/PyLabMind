@@ -3,6 +3,6 @@
 Beyzanur Çelik
 
 Tuğçe Daşcı
-https://
+https://orcid.
 
 Elif Yeşilkır
