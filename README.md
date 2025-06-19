@@ -2,7 +2,7 @@
 
 ## 🚀 2025 🚀
 
-İstanbul Gelişim
+İstanbul Gelişim Üniversitesi (İGÜ) 
 
 
 [Beyzanur Çelik](https://github.com/Beyzanurcelikk)    
