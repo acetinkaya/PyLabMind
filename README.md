@@ -7,7 +7,7 @@
 ## Proje Takımı   
 - [**Beyzanur Çelik**](https://github.com/Beyzanurcelikk)    
   ORCID ID:   
-  İstanbul Gelişim Üniversitesi, 
+  İstanbul Gelişim Üniversitesi, İSTKA Siber Akademi, 
 
 [Tuğçe Daşcı](https://github.com/tugcedasci)    
 https://orcid.org/0009-0000-7253-5918    
